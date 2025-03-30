@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/899287c082d34c31ba7efe1f908e4afd/artifacts
+end_time: 1743210431557
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 899287c082d34c31ba7efe1f908e4afd
+run_name: Extra Trees Classifier
+run_uuid: 899287c082d34c31ba7efe1f908e4afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210431114
+status: 3
+tags: []
+user_id: Dell

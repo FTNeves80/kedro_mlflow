@@ -1,0 +1,2 @@
+model_name: titanic_lr_prod
+model_version: '1'

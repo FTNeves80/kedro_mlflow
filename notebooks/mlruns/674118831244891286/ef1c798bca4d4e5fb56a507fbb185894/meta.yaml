@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/ef1c798bca4d4e5fb56a507fbb185894/artifacts
+end_time: 1743088136650
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: ef1c798bca4d4e5fb56a507fbb185894
+run_name: Gradient Boosting Classifier
+run_uuid: ef1c798bca4d4e5fb56a507fbb185894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088133146
+status: 3
+tags: []
+user_id: Dell

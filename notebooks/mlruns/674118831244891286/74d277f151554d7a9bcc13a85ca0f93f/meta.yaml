@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/74d277f151554d7a9bcc13a85ca0f93f/artifacts
+end_time: 1743088141558
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 74d277f151554d7a9bcc13a85ca0f93f
+run_name: K Neighbors Classifier
+run_uuid: 74d277f151554d7a9bcc13a85ca0f93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088141221
+status: 3
+tags: []
+user_id: Dell

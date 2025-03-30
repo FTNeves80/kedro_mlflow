@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/6dd5be81a8cb402395c4f5d5a96b1c21/artifacts
+end_time: 1743088141086
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 6dd5be81a8cb402395c4f5d5a96b1c21
+run_name: Decision Tree Classifier
+run_uuid: 6dd5be81a8cb402395c4f5d5a96b1c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088140757
+status: 3
+tags: []
+user_id: Dell

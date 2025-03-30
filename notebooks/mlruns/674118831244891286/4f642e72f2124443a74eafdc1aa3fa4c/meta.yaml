@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/4f642e72f2124443a74eafdc1aa3fa4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 4f642e72f2124443a74eafdc1aa3fa4c
+run_name: Session Initialized a4e3
+run_uuid: 4f642e72f2124443a74eafdc1aa3fa4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210311660
+status: 1
+tags: []
+user_id: Dell

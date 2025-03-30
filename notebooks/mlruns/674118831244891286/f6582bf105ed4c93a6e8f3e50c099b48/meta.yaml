@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/f6582bf105ed4c93a6e8f3e50c099b48/artifacts
+end_time: 1743088137809
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: f6582bf105ed4c93a6e8f3e50c099b48
+run_name: Random Forest Classifier
+run_uuid: f6582bf105ed4c93a6e8f3e50c099b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088137534
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/e7fa820973984ab29404005781a36452/artifacts
+end_time: 1743088142053
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: e7fa820973984ab29404005781a36452
+run_name: SVM - Linear Kernel
+run_uuid: e7fa820973984ab29404005781a36452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088141698
+status: 3
+tags: []
+user_id: Dell

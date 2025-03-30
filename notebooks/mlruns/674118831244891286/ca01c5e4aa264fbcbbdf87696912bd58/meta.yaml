@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/ca01c5e4aa264fbcbbdf87696912bd58/artifacts
+end_time: 1743088142972
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: ca01c5e4aa264fbcbbdf87696912bd58
+run_name: Quadratic Discriminant Analysis
+run_uuid: ca01c5e4aa264fbcbbdf87696912bd58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088142638
+status: 3
+tags: []
+user_id: Dell

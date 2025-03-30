@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743360580438
+current_stage: None
+description: null
+last_updated_timestamp: 1743360580438
+name: titanic_lr_model
+run_id: 9de2942094fb456c943b2e2ac4dab918
+run_link: null
+source: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/mlflow_runs/626250116728445160/9de2942094fb456c943b2e2ac4dab918/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/mlflow_runs/626250116728445160/9de2942094fb456c943b2e2ac4dab918/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/9dc64d5db2dd4a8a841402167e59daa3/artifacts
+end_time: 1743210426888
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 9dc64d5db2dd4a8a841402167e59daa3
+run_name: CatBoost Classifier
+run_uuid: 9dc64d5db2dd4a8a841402167e59daa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210426544
+status: 3
+tags: []
+user_id: Dell

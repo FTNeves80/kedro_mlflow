@@ -1,0 +1,53 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+raw_train:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/train.csv
+
+train:
+  type: pandas.ParquetDataset
+  filepath: data/04_feature/train.parquet
+
+#Para salvar localmente:
+#lr_model:
+#   type: pickle.PickleDataset
+#   filepath: data/06_models/lr_model.pickle
+#
+#best_model:
+#   type: pickle.PickleDataset
+#   filepath: data/06_models/best_model.pickle
+
+
+#Logando no MLFlow:
+lr_model:
+  type: kedro_mlflow.io.models.MlflowModelTrackingDataset
+  flavor: mlflow.sklearn
+  save_args:
+    registered_model_name: titanic_lr_model
+
+best_model:
+  type: kedro_mlflow.io.models.MlflowModelTrackingDataset
+  flavor: mlflow.sklearn
+  save_args:
+    registered_model_name: titanic_best_model
+
+
+
+
+
+#Ligue o servidor de modelos
+#export 
+#$ MLFLOW_TRACKING_URI=file://$PWD/mlflow_runs mlflow models serve -m models:/titanic_lr_prod/1 --env-manager=local --port 5001 
+#windowns
+#set MLFLOW_TRACKING_URI=file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/mlflow_runs
+#mlflow models serve --model-uri models:/titanic_lr_prod/1 --env-manager=local --port 5001
+
+
+#Executando uma inferência
+#curl -XPOST http://localhost:5001/invocations --json '{"inputs": [[3, 22.0, 1, 0, 7.25, false, true, false, false, true]]}'
+#Windowns
+#curl -X POST http://localhost:5001/invocations -H "Content-Type: application/json" -d "{\"inputs\": [[3, 22.0, 1, 0, 7.25, false, true, false, false, true]]}"
+

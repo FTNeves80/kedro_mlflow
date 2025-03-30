@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/63e139323c4c4bb18dabaa21da0ed816/artifacts
+end_time: 1743088142494
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 63e139323c4c4bb18dabaa21da0ed816
+run_name: Dummy Classifier
+run_uuid: 63e139323c4c4bb18dabaa21da0ed816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088142195
+status: 3
+tags: []
+user_id: Dell

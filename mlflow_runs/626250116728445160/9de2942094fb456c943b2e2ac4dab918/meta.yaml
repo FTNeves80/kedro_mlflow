@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/mlflow_runs/626250116728445160/9de2942094fb456c943b2e2ac4dab918/artifacts
+end_time: 1743360586286
+entry_point_name: ''
+experiment_id: '626250116728445160'
+lifecycle_stage: active
+run_id: 9de2942094fb456c943b2e2ac4dab918
+run_name: __default__
+run_uuid: 9de2942094fb456c943b2e2ac4dab918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743360518144
+status: 3
+tags: []
+user_id: Dell

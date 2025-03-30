@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/9cd33dd1cbf243c59df67ca4169b8c70/artifacts
+end_time: 1743088138711
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 9cd33dd1cbf243c59df67ca4169b8c70
+run_name: Ridge Classifier
+run_uuid: 9cd33dd1cbf243c59df67ca4169b8c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088138420
+status: 3
+tags: []
+user_id: Dell

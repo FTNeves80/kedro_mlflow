@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/c5a0f7e21e56415d8d18ed75c5e23e96/artifacts
+end_time: 1743088139161
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: c5a0f7e21e56415d8d18ed75c5e23e96
+run_name: Linear Discriminant Analysis
+run_uuid: c5a0f7e21e56415d8d18ed75c5e23e96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088138849
+status: 3
+tags: []
+user_id: Dell

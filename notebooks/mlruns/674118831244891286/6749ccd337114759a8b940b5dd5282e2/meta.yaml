@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/6749ccd337114759a8b940b5dd5282e2/artifacts
+end_time: 1743088140137
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 6749ccd337114759a8b940b5dd5282e2
+run_name: Naive Bayes
+run_uuid: 6749ccd337114759a8b940b5dd5282e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088139764
+status: 3
+tags: []
+user_id: Dell

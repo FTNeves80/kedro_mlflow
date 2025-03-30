@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/Engenharia_de_Machine_Learning/python/titanic/notebooks/mlruns/674118831244891286/67bb0f972ceb463184b576977742accc/artifacts
+end_time: 1743210427458
+entry_point_name: ''
+experiment_id: '674118831244891286'
+lifecycle_stage: active
+run_id: 67bb0f972ceb463184b576977742accc
+run_name: Light Gradient Boosting Machine
+run_uuid: 67bb0f972ceb463184b576977742accc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210427069
+status: 3
+tags: []
+user_id: Dell
